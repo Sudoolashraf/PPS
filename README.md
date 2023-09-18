@@ -1,13 +1,13 @@
 # PPS
 Product Purchase System 
 *Prepared By:
-1.Loay
+1.Loiy mohammed alshami
 2.Osama
 3.Safaa
 4.Saja
-5.Sudool
+5.Sudool Ashraf Zahran
 6.Mohammed
-7.Yousef
+7.Yousef Mohammad Al Deeb
 
 *Product Purchase System is a system that is used in the context of business and companies to manage and facilitate the procurement of products and materials necessary for the company. This system allows organizations to organize and execute procurement efficiently and effectively, improving supply and supply processes and reducing costs.
 
@@ -65,6 +65,7 @@ Discord.
  Open http://localhost:3000 and take a look around.
  
  *
+ 
 
 
 
